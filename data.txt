@@ -1,0 +1,8 @@
+//melihat database//
+SHOW DATABASES;
+
+//membuat database//
+CREAT DATABASE ti05
+
+//menghapus database//
+DROP DATABASE ti05
